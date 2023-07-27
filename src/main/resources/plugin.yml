@@ -1,0 +1,5 @@
+name: AutoClearLag
+version: '${project.version}'
+main: angga7togk.autoclearlag.AutoClearLag
+api: 1.0.0
+author: Angga7Togkk
