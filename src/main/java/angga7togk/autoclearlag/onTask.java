@@ -56,6 +56,8 @@ public class onTask extends Task {
                         }
                     }
                 }
+                // UnLoad Chunk :V
+                level.unloadChunks(true);
             }
 
             this.interval = this.plugin.cfg.getInt("interval");
