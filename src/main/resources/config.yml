@@ -21,7 +21,7 @@ cleared:
 # use {TIME} for the time to delete the entity
 message:
   running: "§6clears the entity in {TIME} seconds!"
-  cleared: "§asuccessfully cleared {COUNT} entity!"
+  cleared: "§successfully cleared {COUNT} entity!"
 
 times: [60, 30, 10, 3, 2, 1]
 
